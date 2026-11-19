@@ -46,7 +46,7 @@ Portales sin cortes para **Unity 6 (URP)**. El jugador atraviesa un portal sin v
 ## Cambiar la gravedad
 
 Gira el portal de salida sobre su eje **Z** (roll). Con un roll de 90°, el suelo del jugador pasa a ser una pared.
-Más detalles en `DOCUMENTACION.md`.
+Más detalles en `DOCUMENTACION.md`. (https://github.com/BrunoMunozCA/Portales-Inmersivos-Seamless-Portals-/blob/main/DOCUMENTACION.md)
 
 ## Limitaciones
 
